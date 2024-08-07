@@ -2,6 +2,10 @@
 
 CommuteMate is a carpooling application designed to facilitate ride sharing among users. This project consists of a frontend built with Angular and backends using Django (Python) and Spring Boot (Java).
 
+![Webapp Homescreen](https://github.com/user-attachments/assets/1dc7b3fc-0290-4e2f-bce2-81dafce7ac76)
+
+
+
 ## Table of Contents
 
 - [Features](#features)
