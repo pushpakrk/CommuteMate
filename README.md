@@ -6,7 +6,6 @@ CommuteMate is a carpooling application designed to facilitate ride sharing amon
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Setup and Installation](#setup-and-installation)
 - [Usage](#usage)
 - [API Endpoints](#api-endpoints)
