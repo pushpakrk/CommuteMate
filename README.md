@@ -57,7 +57,7 @@ CommuteMate is a carpooling application designed to facilitate ride sharing amon
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/CommuteMate.git
+git clone https://github.com/pushpakrk/CommuteMate.git
 cd CommuteMate/frontend
 ```
 
